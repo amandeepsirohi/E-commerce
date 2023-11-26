@@ -17,7 +17,7 @@ export const sliderItems = [
         id : 3,
         img : "https://static.zara.net/photos///2023/I/0/1/p/4302/607/800/2/w/563/4302607800_2_1_1.jpg?ts=1694180544013",
         title: "New Winter Jackets",
-        desc:"GET YOURSELF BEST'S OF BEST COLLECTION ON THIS FESTIVE SEASON !!",
+        desc:"GET YOURSELF BEST'S OF BEST COLLECTION ON THIS FESTIVE SEASON !",
         bg:"#d5deeec5",
     }
 ]
